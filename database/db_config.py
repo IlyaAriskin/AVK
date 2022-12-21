@@ -1,6 +1,6 @@
 DRIVER = "postgresql"
 USERNAME = "postgres"
-PASSWORD = "3633388"
+PASSWORD = ""
 HOST = "localhost"
 PORT = "5432"
 DATABASE = "bot_users"
